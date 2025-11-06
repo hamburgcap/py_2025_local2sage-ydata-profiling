@@ -1,0 +1,4 @@
+.ipynb_checkpoints/
+data/
+reports/*.json
+reports/*.csv
